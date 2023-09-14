@@ -1,0 +1,1 @@
+#Reconocimiento óptico de caracteres
